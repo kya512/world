@@ -1,8 +1,7 @@
 
 # Geoworld 
 
-![world](![world-logo](https://github.com/kya512/world/assets/158290487/de7de0c4-008e-4d17-9d14-202e524921bb)
-)
+![world](![world-logo])
 
 [source blender de l'image](https://www.blendernation.com/wp-content/uploads/2019/03/Ring_Of_Iron04_branded.png)
 
@@ -33,5 +32,4 @@ Initié au lycée Léonard de Vinci - 77000 Melun
 
 ### Point d'entrée
 
-![copie ecran](![projet-attendus](https://github.com/kya512/world/assets/158290487/47dbfaf3-a9d6-4208-9029-499140dc4f27)
-)
+![copie ecran](![projet-attendus])
