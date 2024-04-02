@@ -44,12 +44,14 @@ $desPays = getCountriesByContinent($continent);
         ?>
           <?php foreach ($desPays as $pays) :?>
           <tr>
-
+            
+          <?php $Code2 = ($pays->Code2);?>
+            <td> <img src =<?php echo ("images/drapeau/$Code2.png");?>></td>
             <td> <?php echo $pays->Name ?></td>
             <td> <?php echo $pays->Population ?></td>
-            <td> <?php echo getCapitale($pays-> Capital) ?></td>
+            <td> <?php echo getCapitale($pays->Capital) ?></td>
             <td> <?php echo $pays->HeadOfState ?></td>
-            
+           
           </tr>
           <?php endforeach;?>
      </table>
