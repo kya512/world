@@ -33,6 +33,7 @@ $desPays = getCountriesByContinent($continent);
     <div>
      <table class="table">
          <tr>
+          <th>Drapeau</th>
            <th>Nom</th>
            <th>Population</th>
            <th>Capital</th>
